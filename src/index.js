@@ -13,3 +13,14 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+// const { expect } = require('chai'); // Assuming you're using Chai for assertions
+
+// describe('My Module', () => {
+//   describe('Functionality XYZ', () => {
+//     it('should pass this test', () => {
+//       expect(true).to.be.true;
+//     });
+
+//     // Add more tests here
+//   });
+// });
